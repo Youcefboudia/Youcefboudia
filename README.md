@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Youcefboudia/Youcefboudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Youcef from Algeria, born on January 30, 2001. I am a student and a software engineer currently learning Data Science and AI.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Node.js
+- SQL
+- NoSQL
+- Python
+- Java
+- React Native
+
+Feel free to reach out to me for collaboration or any questions!
