@@ -4,12 +4,12 @@ I'm Youcef from Algeria, born on January 30, 2001. I am a student and a software
 
 ### Skills
 
-- React
-- Node.js
-- SQL
-- NoSQL
-- Python
-- Java
-- React Native
+* [![React][React.js]][React-url]
+* [![Nodejs][Nodejs.js]][Nodejs-url]
+* [![tailwindcss][tailwindcss]][tailwindcss-url]
 
-Feel free to reach out to me for collaboration or any questions!
+
+
+[React-url]: https://reactjs.org/
+[Nodejs-url]: https://nodejs.org/
+[tailwindcss-url]: https://tailwindcss.com/
