@@ -20,7 +20,8 @@ computer science student with a Master's degree,  currently learning Data Scienc
  [![Python][Python]][Python-url]
  [![Java][Java]][Java-url]
  [![React Native][ReactNative]][ReactNative-url]
-
+</br>
+reach me <a href="mailto:youcef.boudia.347@gmail.com"><b>youcef.boudia.347@gmail.com</b></a>
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
