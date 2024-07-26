@@ -1,3 +1,4 @@
+<div align='center'>
 ## Hi there 👋
 
 I'm Youcef from Algeria, born on January 30, 2001.
@@ -27,3 +28,4 @@ computer science student with a Master's degree,  currently learning Data Scienc
 [Java-url]: https://www.java.com/
 [ReactNative]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [ReactNative-url]: https://reactnative.dev/
+</div>
