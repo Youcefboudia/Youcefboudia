@@ -1,18 +1,16 @@
+## Hi 
 <div align='center'>
-## Hi there 👋
-
 I'm Youcef from Algeria, born on January 30, 2001.
 computer science student with a Master's degree,  currently learning Data Science and AI.
 
 ### Skills
-
-* [![React][React.js]][React-url]
-* [![Node.js][Node.js]][Node-url]
-* [![SQL][SQL]][SQL-url]
-* [![NoSQL][NoSQL]][NoSQL-url]
-* [![Python][Python]][Python-url]
-* [![Java][Java]][Java-url]
-* [![React Native][ReactNative]][ReactNative-url]
+- [![React][React.js]][React-url]
+-  [![Node.js][Node.js]][Node-url]
+- [![SQL][SQL]][SQL-url]
+- [![NoSQL][NoSQL]][NoSQL-url]
+- [![Python][Python]][Python-url]
+- [![Java][Java]][Java-url]
+ -[![React Native][ReactNative]][ReactNative-url]
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
