@@ -1,13 +1,3 @@
-###
-
-<h1 align="center">Hey</h1>
-
-###
-
-<h2 align="center">Welcome to my Profile</h2>
-
-###
-
 <div align='center'>
 I'm Youcef from Algeria, born on January 30, 2001.
 computer science student with a Master's degree,  currently learning Data Science and AI.
